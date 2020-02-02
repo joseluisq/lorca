@@ -42,6 +42,8 @@ var defaultChromeArgs = []string{
 	"--disable-popup-blocking",
 	"--disable-prompt-on-repost",
 	"--disable-renderer-backgrounding",
+	"--no-default-browser-check",
+	"--disable-windows10-custom-titlebar",
 	"--disable-sync",
 	"--disable-translate",
 	"--metrics-recording-only",
