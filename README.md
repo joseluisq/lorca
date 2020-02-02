@@ -1,8 +1,8 @@
 # Lorca
 
 [![Build Status](https://travis-ci.org/zserge/lorca.svg?branch=master)](https://travis-ci.org/zserge/lorca)
-[![GoDoc](https://godoc.org/github.com/zserge/lorca?status.svg)](https://godoc.org/github.com/zserge/lorca)
-[![Go Report Card](https://goreportcard.com/badge/github.com/zserge/lorca)](https://goreportcard.com/report/github.com/zserge/lorca)
+[![GoDoc](https://godoc.org/github.com/joseluisq/lorca?status.svg)](https://godoc.org/github.com/joseluisq/lorca)
+[![Go Report Card](https://goreportcard.com/badge/github.com/joseluisq/lorca)](https://goreportcard.com/report/github.com/joseluisq/lorca)
 
 <div>
 <img align="left" src="https://raw.githubusercontent.com/zserge/lorca/master/lorca.png" alt="Lorca" width="128px" height="128px" />
